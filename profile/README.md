@@ -13,7 +13,3 @@ We are a developer community. Where we want to create anything we can imagine an
 - **Zin Mp3** : A music web player with fast speed, friendly interface,...
 - **Wifer** : A app on computer to to check the security of the network you are using.
 
----
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=grow_out_in&layout=zues&font=Gabrielle)
-
